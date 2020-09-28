@@ -1,0 +1,10 @@
+.jest.config.js
+.rollup.config.js
+.tslint.json
+.github/
+.DS_Store
+.npm-debug.log
+.tsconfig.json
+yarn.lock
+src/
+tests/

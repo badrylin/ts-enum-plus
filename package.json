@@ -1,10 +1,9 @@
 {
   "name": "ts-enum-plus",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "typescript enum plus",
-  "main": "dist/inex.cjs.js",
-  "module": "dist/inex.esm.js",
-  "browser": "dist/inex.umd.js",
+  "main": "dist/inex.umd.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
