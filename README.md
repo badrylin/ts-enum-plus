@@ -1,4 +1,4 @@
-# rollup-starter-lib
+# ts-enum-plus
 
 This repo contains a typescript enum expand class and decorators
 
