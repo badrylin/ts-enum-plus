@@ -1,6 +1,6 @@
 {
   "name": "ts-enum-plus",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "typescript enum plus",
   "main": "dist/inex.umd.js",
   "typings": "dist/index.d.ts",
