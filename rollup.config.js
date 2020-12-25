@@ -5,7 +5,7 @@ export default [
 		input: 'src/index.ts',
 		output: {
 			name: 'index',
-			file: pkg.browser,
+			file: pkg.main,
 			format: 'umd'
         },
         plugins: [
