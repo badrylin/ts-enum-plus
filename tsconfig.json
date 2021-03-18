@@ -10,6 +10,7 @@
     "strict": true,
     "preserveSymlinks": true,
     "declaration": true,
+    "emitDeclarationOnly": true,
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": false,

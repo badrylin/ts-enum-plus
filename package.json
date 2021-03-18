@@ -1,13 +1,13 @@
 {
   "name": "ts-enum-plus",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "typescript enum plus",
   "main": "dist/inex.umd.js",
   "typings": "dist/index.d.ts",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "test": "jest tests/index.test.ts"
+    "test": "jest --watch"
   },
   "keywords": [
     "typescript",
