@@ -27,8 +27,8 @@ SimpleEnums.test1.getKey() // 1
 SimpleEnums.test1.getValue() // 销售出货
 SimpleEnums.test2.getKey() // 2
 SimpleEnums.test2.getValue() // 货物调拨
-SimpleEnums.findKey(1) // 销售出货
-SimpleEnums.findKey(2) // 货物调拨
+SimpleEnums.findValue(1) // 销售出货
+SimpleEnums.findValue(2) // 货物调拨
 SimpleEnums.findKey('销售出货') // 1
 SimpleEnums.findKey('货物调拨') // 2
 
