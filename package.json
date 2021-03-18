@@ -2,6 +2,7 @@
   "name": "ts-enum-plus",
   "version": "1.0.0",
   "description": "typescript enum plus",
+  "homepage": "https://github.com/badrylin/ts-enum-plus",
   "main": "dist/inex.umd.js",
   "typings": "dist/index.d.ts",
   "scripts": {
