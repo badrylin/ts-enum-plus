@@ -31,5 +31,6 @@ SimpleEnums.findValue(1) // 销售出货
 SimpleEnums.findValue(2) // 货物调拨
 SimpleEnums.findKey('销售出货') // 1
 SimpleEnums.findKey('货物调拨') // 2
+SimpleEnums.toArray() // [{key: 1, value: '销售出货'}, {key: 2, value: '货物调拨'}]
 
 ```
