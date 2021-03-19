@@ -1,9 +1,9 @@
 {
   "name": "ts-enum-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "typescript enum plus",
   "homepage": "https://github.com/badrylin/ts-enum-plus",
-  "main": "dist/inex.umd.js",
+  "main": "dist/index.umd.js",
   "typings": "dist/index.d.ts",
   "scripts": {
     "build": "rollup -c",
