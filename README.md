@@ -15,6 +15,8 @@ yarn add ts-enum-plus --save
 ## Simple Example
 
 ``` tsx
+import { EnumPlus, SimpleEnums } from 'ts-emnu-plus';
+
 class SimpleEnums extends EnumPlus {
     @EnumDesc(1, '销售出货')
     static test1: SimpleEnums;
