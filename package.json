@@ -1,6 +1,6 @@
 {
   "name": "ts-enum-plus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "typescript enum plus",
   "homepage": "https://github.com/badrylin/ts-enum-plus",
   "main": "dist/index.umd.js",
