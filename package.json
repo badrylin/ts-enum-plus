@@ -15,7 +15,8 @@
     "enum"
   ],
   "files": [
-    "dist"
+    "dist",
+    "!dist/__test__"
   ],
   "author": "badry",
   "license": "ISC",
